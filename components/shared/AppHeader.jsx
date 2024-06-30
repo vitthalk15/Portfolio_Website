@@ -39,7 +39,7 @@ function AppHeader() {
                 {/* Header menu links and small screen hamburger menu */}
                 <div className="flex justify-between items-center px-4 sm:px-0">
                     <div className='font-bold text-4xl text-center pb-4 sm:pb-0 text-blackish circle cursor-pointer'>
-                        <Link href="/"><img href="/images/logo.png"/></Link>
+                        <Link href="/"><img href="../../public/images/logo.png"/></Link>
                     </div>
 
                     {/* Theme switcher small screen */}
